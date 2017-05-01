@@ -45,12 +45,7 @@ public class PhotogGalleryFragment extends Fragment {
 
         @Override
         protected Void doInBackground(Void... params) {
-            try{
-                String result = new FlickrFetchr().getUrlString("https://www.bignerranch.com");
-            }catch (IOException ioe)
-            {
-                Log.e(TAG, "Failed to fetch URL: " ,ioe);
-            }
+            new FlickrFetchr().fetchItems();
             return null;
         }
     }

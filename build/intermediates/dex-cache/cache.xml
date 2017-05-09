@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="06a8afdf93e0880f9869e75307ab524b7f5f766c">
+        sha1="1dce0d3abeff87edb5d8210d406d7178c8ac1acd">
         <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58f6411559904b724e57a2a0c40b8c9421e256e8\classes.dex" />
     </item>
     <item

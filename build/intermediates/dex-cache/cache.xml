@@ -3,21 +3,120 @@
 
     <item
         is-multidex="true"
-        jar="C:\Android_Porjects\PhotoGallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eea1d769260f7c53bb720630785128386984c328">
-        <dex dex="C:\Android_Porjects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9dafc6c80bb10211f16366965e4b65700f3d75be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android_Porjects\PhotoGallery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\android\Projects\PhotoGallery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Android_Porjects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d04f6a2a9ae0b1f9cb3798412885a2ad371398c2\classes.dex" />
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dc147dfa6d99405da7f2e25e8267fce3b320fc9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_654951c999a3dbbb90152834adbbda5a2d0d845f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\bd07af81370188dcf648c06ca6186cbb08d10530\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afe0708b29815f4b0fbf8cdbfbee7043eeaa58e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\4dcfe295885097b86789f7b744cc64054c01f85a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20c5df0d1d6098650b066e884d80df29987b0913\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\9b9bc501ac1151d6721b62074f9669a1f5fb668e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c021948726bfba572f09f962f909cef41ee3228\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\18e88899256e532e043ce03af87137f6386d513c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f3d686ad4ac11fd301ae0bb9feb2b89175819d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\ced40eb81518024156799cd4dcd09fe4452b1864\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_449fb3f289b8d5d60ce8b58b738d8dfff6e47fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\2d9da3436adc25088217995aa2db3ad17ce22601\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d286f009124584ed326940143079dc88ba488e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\4a66258b5aeb84c140899f2f36614cbcae0cabdb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_544b6f7ee8da730abf3b41d16cc4f76b3b53ae42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Projects\PhotoGallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d90cf2b80e08bae310e1dd8cc3d2d9f1738d6259">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58f6411559904b724e57a2a0c40b8c9421e256e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\e1970af0bde2934addd4c37ef9e3bdb72467084f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b0e1a9d0a9be9f0c7c070c2ec7f50ecbd789515\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\a9a176ac4ad0f4c40f4effcc6b587ffb5e160567\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cddfb6d9b53a9e405e23f3d059e4eed644ccfd9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\014e5fd74fc0eee4936dedf07c7e13fd68a94f4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_242ffcaf73e580d766dac2fa41250b35735598c3\classes.dex" />
     </item>
 
 </items>

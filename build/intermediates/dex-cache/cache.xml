@@ -75,21 +75,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\android\Projects\PhotoGallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06a8afdf93e0880f9869e75307ab524b7f5f766c">
+        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58f6411559904b724e57a2a0c40b8c9421e256e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\1\.android\build-cache\4a66258b5aeb84c140899f2f36614cbcae0cabdb\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
         <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_544b6f7ee8da730abf3b41d16cc4f76b3b53ae42\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\android\Projects\PhotoGallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d90cf2b80e08bae310e1dd8cc3d2d9f1738d6259">
-        <dex dex="C:\android\Projects\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58f6411559904b724e57a2a0c40b8c9421e256e8\classes.dex" />
     </item>
     <item
         is-multidex="true"
